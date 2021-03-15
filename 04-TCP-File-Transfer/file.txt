@@ -1,0 +1,4 @@
+This file is the dummy used to check whether the tcp file transfer program is functional.
+Its name is file.txt.
+It has four lines of text.
+Hopefully, the program works !
